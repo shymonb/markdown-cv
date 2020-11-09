@@ -1,48 +1,38 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Szymon Bogacz's CV
 ---
 # Szymon Bogacz
 Senior Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:sz.bogacz@gmail.com">sz.bogacz@gmail.com</a>
+| <a href="https://github.com/shymonb">GitHub</a>
 </div>
 
 
-## Currently
+## Work Experience
 
-Standing on the shoulders of giants
+`2011 - now`
+__Tech Lead at Neurosoft__
 
-### Specialized in
+`2008 - 2011?`
+__Development Team Leader at Neurosoft__
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2004 - 2008`
+__Software developer at Neurosoft__
 
+`2002 - 2004`
+__GeoTec__
 
-### Research interests
+Software developer / _designer_
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`1999 - 2002`
+__BIPROGEO SA__
 
+Software developer
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
+## Key Projects
 
 `2012`
 President, *Royal Society*, London, UK
@@ -51,36 +41,38 @@ Associate, *French Academy of Science*, Paris, France
 
 
 
-## Publications
+## Key Skills
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+## Languages
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+__English__ - C1 level
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+__Polish__ - native
 
 
-## Occupation
+## Education
+
+`1994-2002`
+__Wrocław University of Technology__
+
+computer science
+
+
+Master thesis: _Rozpoznawanie pisma on-line metodą krzywizn..._
+
+
+## Other
 
 `1600`
-__Royal Mint__, London
+...some other things
 
 - Warden
 - Minted coins
 
 `1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__to do__ or not :)
 
 
 
