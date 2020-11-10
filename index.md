@@ -14,30 +14,64 @@ Senior Developer
 ## Work Experience
 
 `2011 - now`
-__Tech Lead at Neurosoft__
+__Tech Lead, Senior Software Developer at Neurosoft__
 
 `2008 - 2011?`
-__Development Team Leader at Neurosoft__
+__Development Team Leader, Senior Software Developer at Neurosoft__
 
 `2004 - 2008`
 __Software developer at Neurosoft__
 
 `2002 - 2004`
-__GeoTec__
-
-Software developer / _designer_
+__Software developer at GeoTechnologies__
 
 `1999 - 2002`
-__BIPROGEO SA__
-
-Software developer
+__Software developer at BIPROGEO SA__
 
 ## Key Projects
 
-`2012`
-President, *Royal Society*, London, UK
+`2019 - 2020`
+__Access Control System for Dolnośląskie Centrum Hurtu Rolno-Spożywczego S.A.__
 
-Associate, *French Academy of Science*, Paris, France
+Neurosoft
+
+`2017 - 2019`
+__A93 Kolonen Parken__
+
+Neurosoft
+
+`2013 - 2015`
+__NeuroCar BackOffice__
+
+Neurosoft
+
+`2009 - 2013`
+__People in Business Portal__
+
+Neurosoft
+
+`2004 - 2006`
+__e-Normy.pl__
+
+Neurosoft
+
+`2002 - 2003`
+__DSIP - Lower Silesian Geographic Information System__
+
+Geotechnologies
+
+
+`2000 - 2001`
+__COMAP-02 - Cadastral System for Lebanese Ministry of Finance__
+
+Biprogeo SA, Wrocław (PL), Beirut (LB)
+
+
+`1999`
+__Mapa 2000__
+
+Biprogeo SA, Wrocław (PL)
+
 
 
 
@@ -54,13 +88,15 @@ __Polish__ - native
 
 ## Education
 
-`1994-2002`
+`1994 - 2002`
 __Wrocław University of Technology__
 
-computer science
+Computer Science at Faculty of Electronics
 
 
-Master thesis: _Rozpoznawanie pisma on-line metodą krzywizn..._
+Master thesis: *"Online handwriting recognition method
+using the curvature parameter
+and the neural classifier"*
 
 
 ## Other
