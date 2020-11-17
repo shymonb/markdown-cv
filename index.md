@@ -50,6 +50,8 @@ __People in Business Portal__
 
 Neurosoft
 
+
+
 `2004 - 2006`
 __e-Normy.pl__
 
@@ -64,7 +66,11 @@ Geotechnologies
 `2000 - 2001`
 __COMAP-02 - Cadastral System for Lebanese Ministry of Finance__
 
-Biprogeo SA, Wrocław (PL), Beirut (LB)
+Biprogeo SA / Arcadis BV, Wrocław (PL) / Beirut (LB)
+
+
+
+Technologies: MicroStation / MDL, Oracle 8, SQL
 
 
 `1999`
@@ -72,7 +78,9 @@ __Mapa 2000__
 
 Biprogeo SA, Wrocław (PL)
 
+A tool for drawing cadastral maps in MicroStation envionment.
 
+Technologies: MicroStation / MDL (C dialect), Oracle 8, SQL
 
 
 ## Key Skills
