@@ -19,8 +19,12 @@ __Tech Lead, Senior Software Developer at Neurosoft__
 `2008 - 2011?`
 __Development Team Leader, Senior Software Developer at Neurosoft__
 
+
+
 `2004 - 2008`
 __Software developer at Neurosoft__
+
+Developing web applications in PHP and Java (Apache Tapestry) as well as backend tools in Python with wxWidgets for UI. I introduced Java and convinced management to make a switch from PHP.
 
 `2002 - 2004`
 __Software developer at GeoTechnologies__
